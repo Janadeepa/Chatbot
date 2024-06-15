@@ -1,4 +1,5 @@
 # Chatbot
+Welcome to the future of conversational AI! This repository hosts an advanced chatbot built with cutting-edge technologies to simulate natural conversations and provide intelligent responses.
 
 🤖 **Advanced Chatbot Project**
 
